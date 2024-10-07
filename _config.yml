@@ -71,20 +71,10 @@ content:
       - layout: left
         title: Carnegie Mellon University
         sub_title: Master of Information Systems Management
-        caption: Expected Graudation - Dec 20225
+        caption: Expected Graudation - Dec 2025
         quote: >
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Selected Coursework: Introduction to Deep Learning, Intermediate Database Management, Statistics, Economic Analysis
-
-      - layout: left
-        title: Dayananda Sagar College of Engineering
-        sub_title: Bachelor of Engineering - Computer Science and Engineering
-        caption: 2018 - 2022
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          Cumulative GPA: 9.76/10
-          Selected Coursework: Artificial Intelligence and Machine Learning, Cloud Computing, Algorithms, Data Structures, Object Oriented Programming with Java.
-  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
