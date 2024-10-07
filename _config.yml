@@ -49,10 +49,18 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Hi, I'm Reuben George Mathew.
+about_title: Hi, I'm Reuben George Mathew
 about_profile_image: images/BW.jpg
 about_content: | # this will include new lines to allow paragraphs  
-  Testing
+  I've always been intrigued by the role of technology in our lives and how software has transformed how we look at things. I'm also fascinated by how technology shapes economies, and how the recent advancements in AI could change the way we learn and work.
+  
+  I'm currently at Carnegie Mellon University (CMU), where I'm diving deeper into the capabilities of AI and its synergies with product development. I'm particularly passionate about how AI can reshape education, discovering innovative ways to enhance learning and teaching experiences through AI-driven technologies.
+  
+  At Goldman Sachs, I worked in the Digital Workplace Engineering team, where I built and maintained Productivity Assistants and Tools used by every employee at the firm. I also worked on AI Proof of Concepts, and was part of various AI Test Programs, helping the firm understand how AI could change the way we work.
+  
+  During my undergrad, I explored multiple disciplines in Computer Science and developed a keen interest in Computer Vision and Deep Learning. I had the opportunity to lead teams in various hackathons, winning the Smart India Hackathon Software Edition, 2020.
+  
+  Apart from my academic and technical interests, I'm passionate about debating and public speaking. During my time at DSCE, I led the Literary Society, a team of 140, and have taken part and won awards at various debates conducted across the state. At Goldman, I was part of the India Women In Engineering program, mentoring women engineering students from disadvantaged backgrounds, and helping them with their soft skills and CS fundamentals. I also led the Analyst Forum, working with leadership to deliver sessions for the Analysts and Associates across themes such as recruitment and integration, financial wellness and networking.
 
 content:
   - title: Education
